@@ -1,0 +1,16 @@
+.cat-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  width: 100px;
+  height: 60px;
+  display: inline-block;
+}
+
+.cat-button img {
+  width: 100%;
+  height: 100%;
+
+}
+
